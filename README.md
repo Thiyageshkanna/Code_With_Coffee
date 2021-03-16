@@ -2,6 +2,4 @@
 https://thiyagesh-code-with-coffee.netlify.app/
 
 
-# Code_With_Coffee
-
-Live Website : https://thiyagesh-code-with-coffee.netlify.app/
+Click the above link to view the webpage
