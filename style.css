@@ -6,7 +6,7 @@
 }
 .body {
   height: 100vh;
-  background: url("Image.jpeg");
+  background: url("Images/background.jpeg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
