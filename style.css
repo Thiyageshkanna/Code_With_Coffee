@@ -88,8 +88,9 @@
   .slide {
     width: 500px !important;
     position: relative;
-    top: 30%;
+    top: 25%;
     left: 4%;
+    height: 400px;
   }
   .sentence h1 {
     font-size: 36px !important;
