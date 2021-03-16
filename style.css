@@ -29,7 +29,7 @@
 }
 .nav-link {
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   display: flex;
   margin-left: 15px;
   margin-right: 20px;
@@ -38,9 +38,6 @@
 .nav-link:hover {
   border-bottom: 1px solid yellow;
   transition: 1s;
-  bottom: 0;
-  left: 15px;
-  right: 15px;
 }
 .last {
   margin-left: auto !important;
@@ -52,10 +49,6 @@
 }
 .sentence {
   color: white;
-  /* position: relative;
-  left: 10%;
-  top: 30%; */
-  /* width: 500px; */
 }
 .sentence h1 {
   text-transform: uppercase;
@@ -90,4 +83,18 @@
   height: 15px;
   width: 20px;
   border-radius: 50% !important;
+}
+@media only screen and (max-width: 600px) {
+  .slide {
+    width: 700px !important;
+    position: relative;
+    top: 30%;
+    left: 4%;
+  }
+  .sentence h1 {
+    font-size: 36px !important;
+  }
+  .sentence p {
+    font-size: 17px;
+  }
 }
